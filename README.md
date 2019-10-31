@@ -2,7 +2,7 @@
 Python module for creating, training and applying neural networks. 
 Requires numpy and matplotlib.
 
-The MNIST dataset for recognition of handwritten digits (test_mnist.py) can be acquired here: 
+The MNIST dataset for recognition of handwritten digits (test_mnist.py) can be acquired here:
 http://yann.lecun.com/exdb/mnist/
 
 // 
